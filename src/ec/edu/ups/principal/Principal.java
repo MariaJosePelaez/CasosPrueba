@@ -30,6 +30,9 @@ public class Principal {
        metodos.validarRecargo4("21");
        metodos.validarRecargo4("31");
        metodos.validarDia("32");
+       
+        System.out.println("Hola Mundo");
+        System.out.println("Hola Pedro");
            
        
     }
