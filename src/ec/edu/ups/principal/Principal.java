@@ -9,7 +9,7 @@ import ec.edu.ups.clases.Metodos;
 
 /**
  *
- * @author USER
+ * @authorTu Macho
  */
 public class Principal {
     
@@ -33,7 +33,7 @@ public class Principal {
        
         System.out.println("Hola Mundo");
         System.out.println("Hola Pedro");
-           
+         System.out.println("Mijina Posi POsi valio");
        
     }
 }
